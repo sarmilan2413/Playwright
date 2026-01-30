@@ -49,6 +49,34 @@ const TEST_CASES = [
 
   { id: 'Pos_Fun_0024', input: 'nalaiku padasalai vedumurai', expected: 'நாளைக்கு பாடசாலை விடுமுறை  ' },
 
+  { id: 'Neg_Fun_0025', input: 'indaiku kapal varukenrathu', expected: 'இண்டைக்கு கப்பல் வருகிறது ' },
+
+  { id: 'Neg_Fun_0026', input: 'enna seyyanum', expected: 'என்ன செய்யவேண்டும் ' },
+
+  { id: 'Neg_Fun_0027', input: 'avanga office poganum', expected: 'அவர்கள் ஆபீசுக்கு போகனும்  ' },
+
+  { id: 'Neg_Fun_0028', input: 'avan pazhaya car vaangiRaan ', expected: 'அவன் பழைய கார்வாங்கிறான்  ' },
+
+  { id: 'Neg_Fun_0029', input: 'enna samayal seivathu', expected: 'என்ன சமையல் செய்ய்வது' },
+
+  { id: 'Neg_Fun_0030', input: 'neenga ready ah irukkeenga', expected: 'நீங்கள் ரெடி ஆ இருக்கீங்கா' },
+
+  { id: 'Neg_Fun_0031', input: 'avan vanga book?', expected: 'அவன் வாங்கும் புத்தகம்!' },
+
+  { id: 'Neg_Fun_0032', input: 'naan tea 10.00 maniku kudikkiren', expected: 'நான் டீ 10.00 மணிக்கு  குடிக்கிறேன்!' },
+
+  { id: 'Neg_Fun_0033', input: 'unga veedu periya veedu', expected: 'உங்க வீடு பெரிய வீடு aa' },
+
+  { id: 'Neg_Fun_0034', input: 'ennai marandhutaanga', expected: 'என்னை மறந்துடாங்க' },
+
+
+
+
+
+
+
+
+
 
 ];
 
