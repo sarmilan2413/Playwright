@@ -54,5 +54,3 @@ https://tamil.changathi.com
 ```bash
 npm install
 
-### GitHub Repository
-[Click here to view the project on GitHub](https://github.com/sarmilan2413/IT23683518.git)
