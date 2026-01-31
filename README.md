@@ -33,7 +33,8 @@ https://tamil.changathi.com
 
 ## Key Features
 
-- 13 positive functional test cases
+- 24 positive functional test cases
+- 10 positive functional test cases
 - Realistic typing simulation (character-by-character)
 - Automatic retry on test failure
 - Custom Markdown test report generation
