@@ -52,17 +52,3 @@ This suite is suitable for QA assignments, academic projects, and real-world aut
 └─ README.md # Project documentation
 
 
-
-## Playwright Test Project
-
-### Requirements
-- Node.js installed
-
-### Install
-npm install
-
-### Run Tests
-npx playwright test
-
-### Website Tested
-https://tamil.changathi.com/
